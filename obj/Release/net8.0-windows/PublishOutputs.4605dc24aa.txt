@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\TeamsMeetSender\teamsinvitesender.exe
+C:\Users\HP\Desktop\TeamsMeetSender\teamsinvitesender.dll
+C:\Users\HP\Desktop\TeamsMeetSender\teamsinvitesender.deps.json
+C:\Users\HP\Desktop\TeamsMeetSender\teamsinvitesender.runtimeconfig.json
+C:\Users\HP\Desktop\TeamsMeetSender\teamsinvitesender.pdb
+C:\Users\HP\Desktop\TeamsMeetSender\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Desktop\TeamsMeetSender\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\TeamsMeetSender\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HP\Desktop\TeamsMeetSender\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HP\Desktop\TeamsMeetSender\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Desktop\TeamsMeetSender\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HP\Desktop\TeamsMeetSender\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HP\Desktop\TeamsMeetSender\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\TeamsMeetSender\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\TeamsMeetSender\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\TeamsMeetSender\System.Text.Json.dll
+C:\Users\HP\Desktop\TeamsMeetSender\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
